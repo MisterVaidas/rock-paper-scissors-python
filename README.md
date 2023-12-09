@@ -34,5 +34,5 @@ Feel free to fork this project and contribute. All contributions to improve the 
 
 ## Acknowledgments
 
-- This game was inspired by the traditional rock, paper, scissors game.
+This game was inspired by the traditional rock, paper, scissors game.
 
