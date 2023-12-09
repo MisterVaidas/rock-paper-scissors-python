@@ -32,7 +32,7 @@ scissors = '''
 
 list_of_signs = [rock, paper, scissors]
 
-user_choice = input("Please choose your option: enter 0 for rock, 1 for paper, and 2 for scissors ")
+user_choice = input("Please choose your option: enter 0 for rock, 1 for paper, and 2 for scissors.\n ")
 
 user_choice_to_int = int(user_choice)
 
